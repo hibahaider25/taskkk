@@ -1,0 +1,36 @@
+body{
+    background-image: url(./picture/brain2.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+      
+}
+
+.navbar{
+    background-color: #2DD249;
+      direction: rtl;
+      float: right;
+       color: black;
+       opacity: 0.7;
+       font-size: 25px;
+ 
+ }
+ .treat{
+     padding: 150px;
+     text-align: center;
+     color: black;
+     padding: 100px;
+     opacity: 0.7;
+    
+
+ }
+ .card-header{
+    font-size: 25px;
+    background-color: #2DD249;
+    font-style: italic;
+ text-align: center;
+ }
+ .card-body{
+     background-color: #fcf3fb;
+     font-weight: bold;
+ 
+ }

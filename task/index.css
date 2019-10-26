@@ -1,0 +1,44 @@
+body{
+
+    background-image: url(./picture/brain3.jpg);
+    background-size: cover;
+    background-repeat: repeat;    
+}
+.navbar{
+   background-color:#2DD249;
+     direction: rtl;
+     float: right;
+    
+      opacity: 0.6;
+      font-size: 25px;
+
+}
+
+.textbrain{
+    text-align: center;
+    color:black ;
+ background-color: white;
+padding: 80px;
+font-size: 25px; 
+margin: 150px 80px 80px 80px ;
+opacity: 0.5;
+font-weight: bold;  
+ border: 4px solid#D22DB6;
+}
+.container{
+    padding-top: 80px;
+    padding-right: 250px; 
+    direction: rtl;
+    float: right;
+
+}
+.card-header{
+   font-size: 25px;
+   background-color:#2DD249 ;
+   font-style: italic;
+text-align: center;
+font-weight: bo;
+opacity: 0.5;
+
+}
+

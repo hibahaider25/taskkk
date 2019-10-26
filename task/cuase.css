@@ -1,0 +1,36 @@
+body{
+    background-color: #f3c9ec;
+    
+}
+.navbar{
+    background-color: #2DD249;
+      direction: rtl;
+      float: right;
+       color: black;
+       
+       font-size: 25px;
+ 
+ }
+.case{
+    text-align: center;
+     font-size: 25px;
+     float:right; 
+     font-family: sans-serif  ;
+     color:black;
+     padding: 80px;
+     margin: 20px;
+
+
+}
+.menu{
+    font-family: sans-serif;
+    float: right;
+    direction: rtl;
+    text-align: justify;
+    font-size: 25px;
+    padding-right: 35%;
+
+    
+}
+
+

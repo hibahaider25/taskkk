@@ -1,0 +1,29 @@
+body{
+    background-image: url(./picture/success.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background-color:#2DD249;
+      direction: rtl;
+      float: right;
+       color: black;
+       
+       font-size: 25px;
+ 
+ }
+p{
+    direction: rtl;
+    float: right;  
+}
+.card-body{
+  opacity: 0.8;
+    font-weight: bold;
+}
+.card-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #D22DB6;
+    font-family: sans-serif;
+}
